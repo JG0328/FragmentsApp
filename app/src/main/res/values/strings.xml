@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">FragmentsApp</string>
+    <string name="app_name">Fragments App</string>
+    <string-array name="list">
+        <item>Activity</item>
+        <item>Intent</item>
+        <item>ListView</item>
+        <item>Adapter</item>
+        <item>Fragment</item>
+    </string-array>
 </resources>
