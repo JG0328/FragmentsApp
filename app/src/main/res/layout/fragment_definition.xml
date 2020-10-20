@@ -10,6 +10,6 @@
         android:id="@+id/txtDefinition"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:textAlignment="center"
+        android:textAlignment="textStart"
         android:textSize="18sp" />
 </FrameLayout>
